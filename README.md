@@ -1,2 +1,2 @@
 # GuessANumberGame
- It's a basic gussing number game with the numbers from 1 to 100
+ It's a basic gussing-number-game with the numbers from 1 to 100 written in Python.
